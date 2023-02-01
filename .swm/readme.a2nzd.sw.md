@@ -11,8 +11,6 @@ Elég haszontalan egy disznó vagy nem gondolod?
 
 <br/>
 
-<br/>
-
 <!--MERMAID {width:100}-->
 ```mermaid
 
@@ -29,10 +27,14 @@ This is a user class
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 src/main/java/org/rodnansol/HelloWorld.java
 ```java
-13     class User {
-14         public String name;
-15     }
+28     class Phone {
+29         public String brand;
+30     }
 ```
+
+<br/>
+
+<br/>
 
 <br/>
 
