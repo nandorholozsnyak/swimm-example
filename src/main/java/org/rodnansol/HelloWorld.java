@@ -17,6 +17,8 @@ class HelloThere {
 
 class User {
     public String name;
+    public String phoneNumber;
+    public Phone phone;
 }
 
 class Address {
