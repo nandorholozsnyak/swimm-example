@@ -9,6 +9,30 @@ app_version: 1.1.0
 
 Elég haszontalan egy disznó vagy nem gondolod?
 
+<br/>
+
+<br/>
+
+<!--MERMAID {width:100}-->
+```mermaid
+
+```
+<!--MCONTENT {content: "<br/>"} --->
+
+<br/>
+
+<br/>
+
+<br/>
+
+This is a user class
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 src/main/java/org/rodnansol/HelloWorld.java
+```java
+13     class User {
+14         public String name;
+15     }
+```
 
 <br/>
 
