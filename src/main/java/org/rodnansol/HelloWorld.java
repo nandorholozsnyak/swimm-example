@@ -6,8 +6,13 @@ public class HelloWorld {
         System.out.println(new User());
         System.out.println(new Address());
         System.out.println(new Phone());
+        System.out.println(new HelloThere());
     }
 
+}
+
+class HelloThere {
+    public String newField;
 }
 
 class User {
